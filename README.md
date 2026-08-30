@@ -57,4 +57,4 @@
 
 微信搜索"三范式"或扫描二维码，即可订阅。
 
-![三范式公众号](image/gzh.jpg)
+<img src="image/gzh.jpg" alt="三范式公众号" width="280" height="280" />
