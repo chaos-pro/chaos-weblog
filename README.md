@@ -52,3 +52,9 @@
 - 2024-11-26 [消失的产品研发部](docs/informal/issue-003.md)
 - 2024-10-28 [项目精打细算的三个月](docs/informal/issue-002.md)
 - 2024-07-10 [你看，又是产品的锅](docs/informal/issue-001.md)
+
+## 公众号
+
+微信搜索"三范式"或扫描二维码，即可订阅。
+
+![三范式公众号](image/gzh.jpg)
