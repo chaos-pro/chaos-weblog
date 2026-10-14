@@ -8,6 +8,7 @@
 
 ## 人工智能
 
+- 2026-10-12 [AI卷王们，从窄路走向宽阔？](docs/intelligent/issue-018.md)
 - 2026-09-28 [企业的AI转型，真能找到出路吗？](docs/intelligent/issue-017.md)
 - 2026-08-21 [项目管理，被AI困在2026年](docs/intelligent/issue-016.md)
 - 2026-08-04 [个体看衰AI，企业加速转型](docs/intelligent/issue-015.md)
