@@ -43,6 +43,7 @@
 
 ## 随笔记录
 
+- 2026-10-18 [情绪围城，才是顶级的PUA](docs/informal/issue-018.md)
 - 2026-07-20 [互联网流量焦虑的生意](docs/informal/issue-017.md)
 - 2026-06-22 [没有项目经理的半年](docs/informal/issue-016.md)
 - 2026-06-01 [岗位减少，职责增加？](docs/informal/issue-015.md)
