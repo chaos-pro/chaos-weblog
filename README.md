@@ -44,6 +44,7 @@
 
 ## 随笔记录
 
+- 2026-11-07 [希望你也能轻松瘦下来](docs/informal/issue-020.md)
 - 2026-10-25 [谁的旷野：不是烧心多年？](docs/informal/issue-019.md)
 - 2026-10-18 [情绪围城，才是顶级的PUA](docs/informal/issue-018.md)
 - 2026-07-20 [互联网流量焦虑的生意](docs/informal/issue-017.md)
