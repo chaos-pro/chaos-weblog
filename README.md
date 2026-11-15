@@ -6,6 +6,13 @@
 
 <img src="image/gzh.jpg" alt="三范式公众号" width="280" height="280" />
 
+## 情绪管理
+
+- 2026-11-15 [情绪的刀：两面都锋利](docs/emotion/issue-004.md)
+- 2026-11-07 [希望你也能轻松瘦下来](docs/emotion/issue-003.md)
+- 2026-10-25 [谁的旷野：不是烧心多年？](docs/emotion/issue-002.md)
+- 2026-10-18 [情绪围城，才是顶级的PUA](docs/emotion/issue-001.md)
+
 ## 人工智能
 
 - 2026-11-01 [人与AI互相效力：谁才是受益者？](docs/intelligent/issue-019.md)
@@ -44,9 +51,6 @@
 
 ## 随笔记录
 
-- 2026-11-07 [希望你也能轻松瘦下来](docs/informal/issue-020.md)
-- 2026-10-25 [谁的旷野：不是烧心多年？](docs/informal/issue-019.md)
-- 2026-10-18 [情绪围城，才是顶级的PUA](docs/informal/issue-018.md)
 - 2026-07-20 [互联网流量焦虑的生意](docs/informal/issue-017.md)
 - 2026-06-22 [没有项目经理的半年](docs/informal/issue-016.md)
 - 2026-06-01 [岗位减少，职责增加？](docs/informal/issue-015.md)
