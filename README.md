@@ -8,6 +8,7 @@
 
 ## 情绪管理
 
+- 2026-11-18 [被PUA的人，你叫不醒](docs/emotion/issue-005.md)
 - 2026-11-15 [情绪的刀：两面都锋利](docs/emotion/issue-004.md)
 - 2026-11-07 [希望你也能轻松瘦下来](docs/emotion/issue-003.md)
 - 2026-10-25 [谁的旷野：不是烧心多年？](docs/emotion/issue-002.md)
