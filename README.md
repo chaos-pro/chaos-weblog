@@ -52,6 +52,7 @@
 
 ## 随笔记录
 
+- 2026-11-27 [当项目只留下一个人](docs/informal/issue-018.md)
 - 2026-07-20 [互联网流量焦虑的生意](docs/informal/issue-017.md)
 - 2026-06-22 [没有项目经理的半年](docs/informal/issue-016.md)
 - 2026-06-01 [岗位减少，职责增加？](docs/informal/issue-015.md)
@@ -69,4 +70,3 @@
 - 2024-11-26 [消失的产品研发部](docs/informal/issue-003.md)
 - 2024-10-28 [项目精打细算的三个月](docs/informal/issue-002.md)
 - 2024-07-10 [你看，又是产品的锅](docs/informal/issue-001.md)
-
